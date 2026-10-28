@@ -37,3 +37,13 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+## 小程序公开图片资源
+
+本仓库的 `assets/` 目录存放小程序使用的公开商品和品牌图片。图片根地址：
+
+```text
+https://gitee.com/yihaopei/guquan-stone-mill-mini-program/raw/master/assets/
+```
+
+仓库只存放可公开展示的图片，不包含账号密钥或用户隐私数据。
