@@ -46,6 +46,46 @@
       "sha256": "6b3ac7299cd4211c9932894a40ace5c73302e6271dc533d00b76cb9bb911e373"
     },
     {
+      "path": "assets/icons/nav/brand-active.svg",
+      "bytes": 359,
+      "sha256": "ed2c893d7f99220c3dad526c928a4037b3a42c3995ca9f34d4a9350b8bc4f525"
+    },
+    {
+      "path": "assets/icons/nav/brand-normal.svg",
+      "bytes": 359,
+      "sha256": "fc9d088ebac6b9751e7867237a4c4d34d2d7b586c9b4fa5c355dd9f75bf14cc2"
+    },
+    {
+      "path": "assets/icons/nav/cart-active.svg",
+      "bytes": 330,
+      "sha256": "547c575e0cb29a0aa56c35a69c668ccc7a875ff95c5da7d02cd4e1aa66e7a49d"
+    },
+    {
+      "path": "assets/icons/nav/cart-normal.svg",
+      "bytes": 330,
+      "sha256": "edf76d8c536dee263842a4f2d567d97491392cbaf19ba832da3a9d9c94b588d0"
+    },
+    {
+      "path": "assets/icons/nav/home-active.svg",
+      "bytes": 312,
+      "sha256": "bff6a9d08b5d2823b7cf4d9a60aed20d8b6f3c061950a5a9f32c571297cff079"
+    },
+    {
+      "path": "assets/icons/nav/home-normal.svg",
+      "bytes": 312,
+      "sha256": "7ec222e160cc999aca8e5ca7b5bbcc0ae21fe7122b77a7428bc567e786113835"
+    },
+    {
+      "path": "assets/icons/nav/products-active.svg",
+      "bytes": 289,
+      "sha256": "8f02c96d2e73c4396b3eae03b433fada4c1f19cd32aef0cb52c50fae425eb320"
+    },
+    {
+      "path": "assets/icons/nav/products-normal.svg",
+      "bytes": 289,
+      "sha256": "011b2f475c698fb31f7e626ee3b56df4d487507dcf18479a55ce248929a57b87"
+    },
+    {
       "path": "assets/icons/pickup.svg",
       "bytes": 523,
       "sha256": "4556bccba0edb40e881bb4b5a6e62b8abcb4643b16d6223bd96862d68fb625b9"
