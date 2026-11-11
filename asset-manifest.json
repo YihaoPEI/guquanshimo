@@ -51,6 +51,21 @@
       "sha256": "4556bccba0edb40e881bb4b5a6e62b8abcb4643b16d6223bd96862d68fb625b9"
     },
     {
+      "path": "assets/membership/alliance-card-100.jpg",
+      "bytes": 60891,
+      "sha256": "ce9eaf1b15a2fa3c2ccaa832f41cc80d9f324de69339bab44fd62ca4e5bf74fc"
+    },
+    {
+      "path": "assets/membership/alliance-card-1000.jpg",
+      "bytes": 60993,
+      "sha256": "c200201f5e021a9443a66b386ff5ce0d6644cfef626981dfd8fef76d53c1ff14"
+    },
+    {
+      "path": "assets/membership/alliance-card-500.jpg",
+      "bytes": 52428,
+      "sha256": "fb6f89915413ef757d23af7b8daef1a57b3c7e4c4ae138880cd67b023a65108f"
+    },
+    {
       "path": "assets/membership/gift-flour.jpg",
       "bytes": 4264,
       "sha256": "82f7a2773a9a01fcb2bf86446f2ef5b6afb9abb6a0e383abbc5e9a66db24ad08"
