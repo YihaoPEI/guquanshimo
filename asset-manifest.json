@@ -126,6 +126,11 @@
       "sha256": "cd4821862f836605917f4a5c021ff626f273a3ee3276ba72ce8cab3b44bfaf8f"
     },
     {
+      "path": "assets/order-empty.svg",
+      "bytes": 1352,
+      "sha256": "006d5b9aab8491a4b0d394a8a320deeef588b17bfb39eb049bdc36b33d5a9135"
+    },
+    {
       "path": "assets/product-real/baozi.jpg",
       "bytes": 6730,
       "sha256": "972cb5fe970d732faf9ba86caaabbb084e062717e0226149907287cb2d1e4684"
