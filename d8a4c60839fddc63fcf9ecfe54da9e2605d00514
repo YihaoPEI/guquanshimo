@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="到店自提">
-  <path d="M10 20.5h28v17H10z" fill="none" stroke="#3d6b4d" stroke-width="3" stroke-linejoin="round"/>
-  <path d="M8 20.5 12 11h24l4 9.5M8 20.5c0 3 2.3 5 5 5s5-2 5-5c0 3 2.3 5 5 5s5-2 5-5c0 3 2.3 5 5 5s5-2 5-5" fill="none" stroke="#3d6b4d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M18 37.5V28h6v9.5M30 27v5h4" fill="none" stroke="#3d6b4d" stroke-width="3" stroke-linejoin="round"/>
-</svg>
